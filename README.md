@@ -53,10 +53,11 @@ For each of the above, I have:
 I have used this to answer the following questions:
 
 * Which model had the best balanced accuracy score?
->
+>Naive Random Oversampling, SMOTE Oversampling and SMOTEEN have the same and the highest balanced accuracy score
 * Which model had the best recall score?
->
+>All the models have the same recall score of 0.99
 * Which model had the best geometric mean score?
+>All the models have the same geometric mean score of 0.99
 
 #### Ensemble Learning
 
@@ -87,9 +88,10 @@ Next:
 I have used this to answer the following questions:
 
 * Which model had the best balanced accuracy score?
-
+>Easy ensemble classifier
 * Which model had the best recall score?
-
+>Easy ensemble classifier
 * Which model had the best geometric mean score?
-
+>Easy ensemble classifier
 * What are the top three features?
+>Total Rec Prncp, Total Pymnt, Total Pyment Inv
