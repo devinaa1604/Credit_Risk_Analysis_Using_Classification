@@ -95,3 +95,11 @@ I have used this to answer the following questions:
 >Easy ensemble classifier
 * What are the top three features?
 >Total Rec Prncp, Total Pymnt, Total Pyment Inv
+>
+
+
+
+
+
+
+
