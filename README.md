@@ -11,9 +11,6 @@ I  have built and evaluated several machine learning models to predict credit ri
 1. [Resampling](#Resampling)
 2. [Ensemble Learning](#Ensemble-Learning)
 
-
-jkhcwqjkhfljwrhfxjhdhejwf
-
 - - -
 ## Resampling
 
@@ -98,11 +95,3 @@ I have used this to answer the following questions:
 >Easy ensemble classifier
 * What are the top three features?
 >Total Rec Prncp, Total Pymnt, Total Pyment Inv
->
-
-
-
-
-
-
-
